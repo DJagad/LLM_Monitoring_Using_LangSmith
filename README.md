@@ -26,8 +26,8 @@ To set up the environment and run the application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://your-repository-url.git
-   cd your-repository-directory
+   git clone https://github.com/DJagad/LLM_Monitoring_Using_LangSmith.git
+   cd LLM_Monitoring_Using_LangSmith
    ```
 
 2. **Install dependencies**:
